@@ -1,3 +1,6 @@
+# hey if someone reads this can you open the door im downstairs! - lh
+
+
 ## Sync Quizzie — a sample app for Concept Design
 
 **What this is**: a tiny, end‑to‑end app that demonstrates building with
